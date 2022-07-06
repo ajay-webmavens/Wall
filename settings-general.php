@@ -1144,7 +1144,7 @@ function setCookie(cname, cvalue) {
 			<li><a href="member-badge-manager.php">Member Badge Settings</a></li>
             <!-- WM code start -->
             <li class="divider"></li>
-            <li><a href="redstring-wall-settings.html">Redstring Wall Settings</a></li>
+            <li><a href="redstring-wall-settings.php">Redstring Wall Settings</a></li>
             <!-- End WM code -->
             </ul>
 </div>				    </li>

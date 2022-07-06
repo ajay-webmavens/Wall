@@ -1146,7 +1146,7 @@ function setCookie(cname, cvalue) {
             <li><a href="member-badge-manager.php">Member Badge Settings</a></li>
             <!-- WM code start -->
             <li class="divider"></li>
-            <li><a href="redstring-wall-settings.html">Redstring Wall Settings</a></li>
+            <li><a href="redstring-wall-settings.php">Redstring Wall Settings</a></li>
             <!-- End WM code -->
         </ul>
 </div>            </li>
@@ -1513,13 +1513,13 @@ a.iconlink:hover{
                </div>
                <div class="d-flex d-flex-align-center pl-30 rswall-link">
                     <a data-toggle="collapse" href="#ShowComment" role="button" aria-expanded="false" aria-controls="ShowComment">
-                        <span class="pl-5">2 Comments</span>
+                        <span class="pl-5">12 Comments</span>
                     </a>
                   </div>
                <!-- <div class="d-flex d-flex-align-center">
                   <i class="fa-solid fa-share-from-square"></i>
                </div> -->
-            </div>
+            </div> 
             <div class="post-footer">
                <div class="d-flex d-flex-justify-between">
                   <div class="d-flex d-flex-align-center">
